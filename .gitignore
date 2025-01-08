@@ -111,3 +111,5 @@ pytest.ini
 # Others
 .DS_Store
 Thumbs.db
+
+temp
